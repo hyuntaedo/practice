@@ -2,9 +2,9 @@
 
 int main()
 {
-	int n;
-	n = 10;
-	printf("%d\n",n);
+	int n,m;
+	scanf("%d, %d",&n,&m);
+	printf("%d %d\n",n.m);
 	return 0;
 }
 
